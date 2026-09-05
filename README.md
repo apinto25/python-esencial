@@ -22,6 +22,7 @@ Cada módulo del curso tiene su propia carpeta dentro del repositorio (`cN_...`)
 - Variables en Python → [`variables.py`](c2_conceptos/variables.py)
 - Operaciones básicas en Python → [`operaciones.py`](c2_conceptos/operaciones.py)
 - Indentación en Python → [`indentacion.py`](c2_conceptos/indentacion.py)
+- Ejercicios → [`ejercicios/c2_conceptos/`](ejercicios/c2_conceptos/)
 
 ### 3. Estructuras de datos — [`c3_estructuras_datos/`](c3_estructuras_datos/)
 - Qué son las estructuras de datos
@@ -29,6 +30,7 @@ Cada módulo del curso tiene su propia carpeta dentro del repositorio (`cN_...`)
 - Tuplas en Python → [`tuplas.py`](c3_estructuras_datos/tuplas.py)
 - Diccionarios en Python → [`diccionarios.py`](c3_estructuras_datos/diccionarios.py)
 - Sets en Python → [`sets.py`](c3_estructuras_datos/sets.py)
+- Ejercicios → [`ejercicios/c3_estructuras_datos/`](ejercicios/c3_estructuras_datos/)
 
 ### 4. Condiciones y ciclos — [`c4_condiciones_ciclos/`](c4_condiciones_ciclos/)
 - Qué son las condiciones
@@ -37,6 +39,7 @@ Cada módulo del curso tiene su propia carpeta dentro del repositorio (`cN_...`)
 - Ciclos for en Python → [`ciclo_for.py`](c4_condiciones_ciclos/ciclo_for.py)
 - Ciclos while en Python → [`ciclo_while.py`](c4_condiciones_ciclos/ciclo_while.py)
 - Iterando sobre estructuras de datos en Python → [`ciclo_estructura_datos.py`](c4_condiciones_ciclos/ciclo_estructura_datos.py)
+- Ejercicios → [`ejercicios/c4_condiciones_ciclos/`](ejercicios/c4_condiciones_ciclos/)
 
 ### 5. Funciones — [`c5_funciones/`](c5_funciones/)
 - Introducción a las funciones en Python
@@ -44,16 +47,19 @@ Cada módulo del curso tiene su propia carpeta dentro del repositorio (`cN_...`)
 - Argumentos y parámetros en las funciones de Python
 - Retorno de valores en una función de Python
 - → [`funciones.py`](c5_funciones/funciones.py)
+- Ejercicios → [`ejercicios/c5_funciones/`](ejercicios/c5_funciones/)
 
 ### 6. Módulos — [`c6_modulos_paquetes/`](c6_modulos_paquetes/)
 - Módulos y paquetes en Python
 - Creando el primer módulo en Python → [`main.py`](c6_modulos_paquetes/main.py)
 - Creando un paquete en Python → [`geografia/`](c6_modulos_paquetes/geografia/)
+- Ejercicios → [`ejercicios/c6_modulos_paquetes/`](ejercicios/c6_modulos_paquetes/)
 
 ### 7. Paquetes y ambientes virtuales — [`c7_paquetes_ambientes/`](c7_paquetes_ambientes/)
 - Paquetes de Python y pip
 - Ambientes virtuales con venv para Python
 - Archivo de requerimientos para Python → [`requirements.txt`](c7_paquetes_ambientes/requirements.txt)
+- Ejercicios → [`ejercicios/c7_paquetes_ambientes/`](ejercicios/c7_paquetes_ambientes/)
 
 ### 8. Programación orientada a objetos — [`c8_clases/`](c8_clases/)
 - Introducción a la programación orientada a objetos en Python
@@ -62,10 +68,12 @@ Cada módulo del curso tiene su propia carpeta dentro del repositorio (`cN_...`)
 - Métodos de una clase en Python
 - Herencia de clases en Python
 - → [`clases.py`](c8_clases/clases.py)
+- Ejercicios → [`ejercicios/c8_clases/`](ejercicios/c8_clases/)
 
 ### 9. Errores y excepciones — [`c9_errores_excepciones/`](c9_errores_excepciones/)
 - Errores de sintaxis en Python → [`errores_excepciones.py`](c9_errores_excepciones/errores_excepciones.py)
 - Try - Except para el manejo de excepciones en Python → [`try_except.py`](c9_errores_excepciones/try_except.py)
+- Ejercicios → [`ejercicios/c9_errores_excepciones/`](ejercicios/c9_errores_excepciones/)
 
 ## Cómo descargar el repositorio
 
@@ -114,6 +122,10 @@ venv\Scripts\activate         # Windows
 # Instalar las dependencias del curso
 pip install -r c7_paquetes_ambientes/requirements.txt
 ```
+
+## Ejercicios
+
+La carpeta [`ejercicios/`](ejercicios/) contiene ejercicios de práctica organizados por capítulo, separados del código de los videos. Consulta [`ejercicios/README.md`](ejercicios/README.md) para más detalle sobre el objetivo y cómo trabajarlos.
 
 ## Autor
 
